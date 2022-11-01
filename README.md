@@ -1,6 +1,6 @@
-# steam-app-values
+# Steam-App-Values
 
-##HIDDEN APP VALUES:
+## HIDDEN APP VALUES:
 
     Greenlight: 765
     SteamVR: 250820
